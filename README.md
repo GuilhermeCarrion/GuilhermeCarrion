@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Guilherme, mas pode me chamar de Carrion</h1>
+<h1>Olá! Eu sou o Guilherme, sou Desenvolvedor Javascript</h1>
 
 <p>
 🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
